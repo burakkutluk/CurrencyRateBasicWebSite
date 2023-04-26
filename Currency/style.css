@@ -1,0 +1,46 @@
+
+body{
+    background-color: aliceblue;
+}
+
+.currency-wrapper{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    align-items: center;
+}
+
+.title{
+    font-size: 35px;
+    padding-bottom: 0px;
+    margin-left: 800px;
+    width: 100%;
+}
+
+.form{
+    width: 100%;
+    margin-left: 800px;
+    height: 200px;
+}
+
+input{
+    height: 50px;
+    width: 200px;
+    text-align: left;
+    border-radius: -7px;
+    border: 0px;
+    background-color: bisque;
+    margin-top: 0px;
+}
+
+.selection{
+    margin-right: 699px;
+    margin-top: -140px;
+}
+
+select{
+    height: 50px;
+    width: 200px;
+    margin-top: 0px;
+}
+
